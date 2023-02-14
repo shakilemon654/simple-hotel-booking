@@ -1,0 +1,32 @@
+[
+    {
+        "hotelName": "Citybox Tallinn City",
+        "address": "Hotel in Tallinn City Center, Tallinn",
+        "description": "Citybox Tallinn City Center is located in the Porto Franco Harbor Complex and offers simple and modern rooms of Scandinavian design.",
+        "pricePerNight": "$45",
+        "people": 2,
+        "review": 3,
+        "image": "https://cdn.loewshotels.com/loewshotels.com-2466770763/cms/cache/v2/5f5a6e0d12749.jpg/1920x1080/fit/80/86e685af18659ee9ecca35c465603812.jpg",
+        "id": 1
+    },
+    {
+        "hotelName": "Park Inn Radisson Meriton",
+        "address": "Dresden, Germany",
+        "description": "Citybox Tallinn City Center is located in the Porto Franco Harbor Complex and offers simple and modern rooms of Scandinavian design.",
+        "pricePerNight": "$71.10",
+        "people": 3,
+        "review": 4,
+        "image": "https://content.r9cdn.net/himg/e1/cf/7c/ice-2108712-99709224-376800.jpg",
+        "id": 2
+    },
+    {
+        "hotelName": "Hotel Dubai",
+        "address": "Dubai, UAE",
+        "description": "Citybox Tallinn City Center is located in the Porto Franco Harbor Complex and offers simple and modern rooms of Scandinavian design.",
+        "pricePerNight": "$110.10",
+        "people": 4,
+        "review": 5,
+        "image": "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg",
+        "id": 3
+    }
+]

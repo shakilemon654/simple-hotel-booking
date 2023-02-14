@@ -1,0 +1,32 @@
+:root {
+    --primary-color: rgb(2, 16, 42);
+  }
+input {
+    @apply w-full border border-gray-500 px-4 py-2;
+}
+input:focus {
+    @apply rounded;
+}
+label {
+    @apply font-medium text-sm uppercase tracking-wide pb-4;
+    color: var(--primary-color);
+}
+button {
+    @apply border p-2 w-full text-white tracking-wide font-medium text-base;
+}
+form {
+    @apply p-10;
+}
+
+.height {
+    height: calc(100vh - 40px);
+}
+
+.bg-form {
+    background-color: #ffffff;
+}
+
+.btn {
+    @apply uppercase;
+    background-color: var(--primary-color);
+}

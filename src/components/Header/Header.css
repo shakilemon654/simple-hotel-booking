@@ -1,0 +1,23 @@
+.btn-header {
+    border-width: 1px;
+    border-style: solid;
+    --tw-border-opacity: 1;
+    border-color: rgb(181 161 145/var(--tw-border-opacity));
+}
+
+.btn-header:hover {
+    background-color: #B5A191;
+    color: #FFFFFF;
+}
+
+.font {
+    line-height: 1.375rem;
+    letter-spacing: .07em;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.landing-page {
+    background:rgba(0, 0, 0, .3) url('https://storage.kempinski.com/cdn-cgi/image/w=1920,f=auto,g=auto,fit=scale-down/ki-cms-prod/images/7/3/7/0/510737-1-eng-GB/81b29f8b9793-74577850_4K.jpg') no-repeat scroll center/cover;
+    background-blend-mode: darken;
+}
